@@ -1,0 +1,7 @@
+E:\T E C\C#\Mini-projet-IA\Mini-projet-IA\bin\Debug\Mini-projet-IA.exe.config
+E:\T E C\C#\Mini-projet-IA\Mini-projet-IA\bin\Debug\Mini-projet-IA.exe
+E:\T E C\C#\Mini-projet-IA\Mini-projet-IA\bin\Debug\Mini-projet-IA.pdb
+E:\T E C\C#\Mini-projet-IA\Mini-projet-IA\obj\Debug\Mini-projet-IA.csproj.AssemblyReference.cache
+E:\T E C\C#\Mini-projet-IA\Mini-projet-IA\obj\Debug\Mini-projet-IA.csproj.CoreCompileInputs.cache
+E:\T E C\C#\Mini-projet-IA\Mini-projet-IA\obj\Debug\Mini-projet-IA.exe
+E:\T E C\C#\Mini-projet-IA\Mini-projet-IA\obj\Debug\Mini-projet-IA.pdb
