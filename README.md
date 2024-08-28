@@ -1,1 +1,1 @@
-Intelligence Artificielle dedié avec des règle des mathématique discrètement
+Intelligence Artificielle dedié avec des règle des mathématiques discrètement
